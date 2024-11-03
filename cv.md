@@ -1,9 +1,9 @@
 # rsschool-cv
 # Alan Yakhyaev
-### Junior Frontend Devoloper
+## Junior Frontend Devoloper
 ### Contact information:
 ##### Phone: +79969390553
-##### E-mail: alan05@gmail.com
+##### E-mail: alan05region@gmail.com
 ##### [Telegram: @xdrive-gaz](https://t.me/xdrive_gaz)
 
 ### Briefly About Myself:
@@ -19,4 +19,3 @@
     * English - B2
     * Arabic - A2
     * Turkish - A2
-
