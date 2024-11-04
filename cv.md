@@ -27,6 +27,6 @@ console.log(myList);
 ## Languages:
 * Dargin - Native
 * Russian - C2
-* English - B2
+* English - B1
 * Arabic - A2
 * Turkish - A2
