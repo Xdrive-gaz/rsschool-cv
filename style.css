@@ -3,9 +3,13 @@
 }
 
 .foto {
+    display: flex;
+    width: 200px;
     padding: 10px 10px;
     border: 10px dashed white;
     background-color: black;
+    top: 0;
+    right: 0;
     
 }
 
