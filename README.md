@@ -1,1 +1,1 @@
-https://Xdrive-gaz.github.io/rsschool-cv/cv
+https://Xdrive-gaz.github.io/rsschool-cv/cvgit 
