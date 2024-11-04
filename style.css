@@ -1,0 +1,23 @@
+.body {
+    font-family: 'Roboto';
+}
+
+.foto {
+    padding: 10px 10px;
+    border: 10px dashed white;
+    background-color: black;
+    
+}
+
+[href*="t.me/xdrive_gaz"]{
+    padding-left: 1.2em;
+    background: url('telegram-svgrepo-com.svg') 0 50%/1em no-repeat;
+}
+
+.spisok {
+    counter-reset: li; 
+    list-style: none; 
+    font: 14px "Trebuchet MS", "Lucida Sans";
+    padding: 0;
+    text-shadow: 0 1px 0 rgba(255,255,255,.5);
+    }
